@@ -1,0 +1,7 @@
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\bin\Release\AsusXonarSW3.exe
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\bin\Release\AsusXonarSW3.pdb
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\obj\Release\AsusXonarSW3.Form1.resources
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\obj\Release\AsusXonarSW3.Properties.Resources.resources
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\obj\Release\AsusXonarSW3.csproj.GenerateResource.Cache
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\obj\Release\AsusXonarSW3.exe
+c:\users\varez_000\documents\visual studio 2013\Projects\AsusXonarSW3\AsusXonarSW3\obj\Release\AsusXonarSW3.pdb
